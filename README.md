@@ -8,7 +8,7 @@ Multilayer Perceptron to recognize characters using:</br>
 
 # Before running the program
 - Install <strong>Python 3</strong>, then:</br>
-- pip install -r requirements.txt
+- pip install -r requirements.txt (we recommend you to use virtualenv)
 
 # To run the program:
 - Set parameters on src/parameters.py
@@ -18,5 +18,7 @@ Multilayer Perceptron to recognize characters using:</br>
 # Authors:
 Laura Castro Vieira</br>
 Rafael Bortman</br>
-Virgílio Fernandes Junior</br>
+Virgílio Fernandes Jr.</br>
+
+(This fork are going to be updated only by Virgílio)
  
