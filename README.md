@@ -20,5 +20,5 @@ Laura Castro Vieira</br>
 Rafael Bortman</br>
 Virgílio Fernandes Jr.</br>
 
-(This fork are going to be updated only by Virgílio)
+(This fork is going to be updated only by Virgílio)
  
