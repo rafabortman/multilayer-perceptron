@@ -19,6 +19,3 @@ Multilayer Perceptron to recognize characters using:</br>
 Laura Castro Vieira</br>
 Rafael Bortman</br>
 Virgílio Fernandes Jr.</br>
-
-(This fork is going to be updated only by Virgílio)
- 
